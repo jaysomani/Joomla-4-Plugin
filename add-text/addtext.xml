@@ -19,7 +19,7 @@
 	<config>
 		<fields name="params">
 			<fieldset name="basic">
-				<field name="add_text" type="text" label="PLG_SYSTEM_ATTACHTEXT_ADD_TEXT_LABLE" description="PLG_SYSTEM_ATTACHTEXT_ADD_TEXT_DESC" />
+				<field name="add_text" type="text" label="PLG_SYSTEM_ATTACHTEXT_ADD_TEXT_LABEL" description="PLG_SYSTEM_ATTACHTEXT_ADD_TEXT_DESC" />
 			</fieldset>
 		</fields>
 	</config>
